@@ -1,6 +1,13 @@
 🩺 Week 4 — Machine Learning: Classification
 Hope AI Master Program · Applied AI, Gen AI & Data Science
 
+![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
+![Module](https://img.shields.io/badge/Module-Classification-4B8BBE?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 Can a machine learning model detect Chronic Kidney Disease from a routine blood test? This week's assignment answers exactly that — by building, training, and benchmarking 5 classification models on real clinical laboratory data.
 
 ## 🎯 Problem Statement
