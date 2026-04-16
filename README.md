@@ -33,7 +33,7 @@ Every week = a dedicated folder with notebooks, assignments, and notes from real
 | Week 1 | **Travel Path** | AI roadmap, career clarity, learning strategy | ✅ Done | — |
 | Week 2 | **Python** | Core Python — syntax, data structures, OOP, functions | ✅ Done | Week_2/ |
 | Week 3 | **ML — Regression** | EDA, feature engineering, Linear/DT/RF/GBM/AdaBoost/XGBoost, R² | ✅ Done | Week_3/ |
-| Week 4.1 | **ML — Classification** | Logistic Regression, SVM, KNN, Decision Trees, evaluation metrics | 🔜 | — |
+| Week 4.1 | **ML — Classification** | Logistic Regression, SVM, KNN, Decision Trees, evaluation metrics | ✅ Done | Week_4/ |
 | Week 4.2 | **ML — Clustering** | K-Means, DBSCAN, Hierarchical clustering, silhouette score | 🔜 | — |
 | Week 4.3 | **Practice — Coding & Error Handling** | Real-world ML debugging, pipelines, code quality | 🔜 | — |
 | Week 5 | **Data Science — Univariate Analysis** | Distributions, central tendency, spread, outlier detection | 🔜 | — |
